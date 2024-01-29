@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "damion";
+  src: local("Damion-Regular.ttf"),
+    url("./Fonts/Damion-Regular.ttf") format("truetype");
+}
 .App {
   text-align: center;
 }
